@@ -1,0 +1,47 @@
+#top1{width: 100%;background: #f2f2f2;}
+#top1-1{width: 1200px;height: 30px;margin:0 auto;}
+#u1{width: 600px;height: 30px;float: left;}
+#u1 li{float: left;line-height: 30px;padding-left: 30px;color: #999999;}
+#u1 li a{color: #999999;}
+#u1 #mf a{color: #FF0000;}
+#sy{background:url(../img/head/1.png) no-repeat 10px center;}
+#u2{width: 450px;height: 30px;float: right;}
+#u2 li{float: left;line-height: 30px;color: #999999;padding-left: 30px;}
+#u2 #wd a,#sj a,#bz a{color: #999999;}
+#u2 span{color: #FF0000;font-weight: bolder;font-size: 14px;}
+#wd{background: url(../img/head/2.png) no-repeat 15px center;}
+#sj{background: url(../img/head/4.png) no-repeat 15px center;}
+#dg{background: url(../img/head/3.png) no-repeat 15px center;}
+/*----------------    top1 over    ----------------------------------------*/
+#top2{width: 100%;}
+#top2-0{width: 1200px;height:80px;margin: 0 auto;}
+#top2-1{width: 360px;height: 80px;float: left;}
+#logo{padding: 10px 10px;float: left;}
+#dt{padding: 10px 10px;float: left;}
+#top2-2{width: 600px;height: 80px;float: left;}
+#txt{width: 500px;height: 30px;border: 4px solid #b81c22;margin-top: 20px;margin-left: 20px;}
+#btn{width: 50px;height: 38px;background: #b81c22;color: #FFFFFF;font-size: 20px;margin-top: 20px;}
+#rm{padding-top: 4px;height: 15px;padding-left: 30px;}
+#rm h4{display: inline-block;}
+#rm a{padding-left: 15px;color: #CCCCCC;}
+#rm a:hover{color: #FF0000;}
+#top2-3{width: 120px;height: 35px;float: left;margin: 20px 50px;border: 1px solid #CCCCCC;}
+#gw a{color: #000000;font-size: 16px;position: relative;left: 15px;top: 8px;}
+#gwi{position: relative;left: 10px;top: 10px;}
+/*----------------    top2 over    ----------------------------------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
